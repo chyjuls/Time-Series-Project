@@ -1,0 +1,13 @@
+﻿"U.S. number of cyber attacks leading to data violation 2020-2022, by type",,,
+,,,
+,2022,2021,2020
+Phishing/Smishing/BEC,461,537,383
+Ransomware,276,357,158
+Malware,70,141,104
+Non-Secured Cloud Environment,9,24,50
+Credential Stuffing,18,14,17
+Unpatched Software Flaw,,4,3
+Zero Attack Day,8,4,1
+Other,26,426,162
+Not Specified,727,111,
+Total,"1,595","1,613",878
