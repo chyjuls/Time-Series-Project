@@ -1,7 +1,3 @@
-Year,Ransomware,Malware,DDos,Hacking,Domain_spoofing,Phishing,Other,MitM,Unauthorised_access
-2017,181,299,79,54,309,589,762,0,143
-2018,165,303,132,64,414,787,1122,0,217
-2019,57,98,50,34,160,349,613,0,1103
-2020,11,36,23,8,45,117,95,0,50
-2021,4,18,18,5,44,89,169,4,21
-2022,18,58,49,19,136,266,205,26,79
+version https://git-lfs.github.com/spec/v1
+oid sha256:6df32df6492709bf8444ac0ac841dbb6a7b02a4f318b10332d7a399fe28faee2
+size 301
