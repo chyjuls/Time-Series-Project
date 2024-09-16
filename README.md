@@ -32,7 +32,17 @@ This project is based on my final independent project conducted for my Msc. Comp
 
 
 
-   ![US bar charts](Data-Sets/US_barcharts.png)   
+   ![US bar charts](Data-Sets/US_barcharts.png)  
+
+
+
+
+
+
+   ![US data plots](Data-Sets/US_plots.png)  
+
+
+   
 
 
 
