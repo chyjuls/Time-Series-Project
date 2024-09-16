@@ -26,7 +26,21 @@ This project is based on my final independent project conducted for my Msc. Comp
 
 
 
-   ## US Data Visualization  
+   ## US Data Visualization   
+
+
+
+
+
+   ![US bar charts](Data-Sets/US_barcharts.png)   
+
+
+
+
+
+
+
+   
 
 
    
