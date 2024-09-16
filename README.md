@@ -49,7 +49,25 @@ This project is based on my final independent project conducted for my Msc. Comp
 
 
 
-   ![US statista data 2019](Data-Sets/US_statista.png)
+
+
+
+
+
+
+   ![US statista data 2019](Data-Sets/US_statista.png)   
+
+
+
+
+
+
+
+
+
+
+
+   ![US statista data 2020](Data-Sets/US_statista_2020.png)
 
 
    
